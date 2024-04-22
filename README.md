@@ -1,3 +1,4 @@
+
 • Analyzed the giant retailer Target data containing l00k+ orders using SQL for efficient data extraction, filtering, and
 transformation. Applied subqueries to retrieve specific subsets of data for detailed analysis.
 
